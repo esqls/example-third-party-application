@@ -46,7 +46,7 @@ You can then choose between a manual setup (install Ruby and Rails locally) or a
 
 ### SSO
 
-Both authentication with Clio Identity and authorization with Clio Manage start their flows in the `ApplicationController` (`app/controllers/application_controller.rb`). This file takes you through the steps outlined in our [Integrating with Clio Identity](https://developers.support.clio.com/hc/en-us/articles/4405288237723-Integrating-with-Clio-Identity-Single-Sign-on-with-Clio-) documentation (for performing authentication) and our [API Documentation](https://app.clio.com/api/v4/documentation#section/Authorization-with-OAuth-2.0/Obtaining-Authorization) (for obtaining authorization).
+Both authentication with Clio Identity and authorization with Clio Manage start their flows in the `ApplicationController` (`app/controllers/application_controller.rb`). This file takes you through the steps outlined in our [Integrating with Clio Identity](https://developers.support.clio.com/hc/en-us/articles/4405288237723-Integrating-with-Clio-Identity-Single-Sign-on-with-Cqlio-) documentation (for performing authentication) and our [API Documentation](https://app.clio.com/api/v4/documentation#section/Authorization-with-OAuth-2.0/Obtaining-Authorization) (for obtaining authorization).
 
 ### API Requests
 
